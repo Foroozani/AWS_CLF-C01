@@ -43,7 +43,8 @@ Amazon Web Services (AWS) owns and maintains the network-connected hardware requ
 
 
 
-# Sources 
+# Online video resources
+From basic to professional, to get AWS certificates [here](https://www.youtube.com/c/StephaneMaarek/videos)
 
 
 # Links: 
