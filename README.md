@@ -1,5 +1,10 @@
-# AWS_CLF-C01
+# Amazon Web Service CLF-C01
 [Cloud Practitioner](https://aws.amazon.com/certification) materials  - AWS
+
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Foroozani/AWS_CLF-C01/blob/main/images/aws-cer.png">
+</p>
 
 ## What is Cloud Computing?
 
