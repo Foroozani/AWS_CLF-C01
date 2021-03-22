@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Foroozani/AWS_CLF-C01/blob/main/images/aws-cer.png">
+  <img width="800" height="450" src="https://github.com/Foroozani/AWS_CLF-C01/blob/main/images/aws-cer.png">
 </p>
 
 ## What is Cloud Computing?
