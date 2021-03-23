@@ -1,6 +1,7 @@
-
+# creating and terminating a virtual machine from bash
 #!/bin/bash -e
-# You need to install the AWS Command Line Interface from http://aws.amazon.com/cli/
+
+# install the AWS CLI
 AMIID="$(aws ec2 describe-images --filters "Name=name,Values=amzn-ami-hvm-2017.09.1.*-x86_64-gp2" --query "Images[0].ImageId" --output text)"
 VPCID="$(aws ec2 describe-vpcs --filter "Name=isDefault, Values=true" --query "Vpcs[0].VpcId" --output text)"
 SUBNETID="$(aws ec2 describe-subnets --filters "Name=vpc-id, Values=$VPCID" --query "Subnets[0].SubnetId" --output text)"
@@ -18,3 +19,4 @@ echo "terminating $INSTANCEID ..."
 aws ec2 wait instance-terminated --instance-ids "$INSTANCEID"
 aws ec2 delete-security-group --group-id "$SGID"
 echo "done."
+
