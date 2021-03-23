@@ -1,4 +1,6 @@
 # creating and terminating a virtual machine from bash
+# execute: chmod +x virtualmachine.sh && ./virtualmachine.sh
+# ----------------------------------------------------------
 #!/bin/bash -e
 
 # install the AWS CLI
