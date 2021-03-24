@@ -55,6 +55,7 @@ From basic to professional, to get AWS certificates [here](https://www.youtube.c
 # Links: 
 ### AWS Regional Services
 The AWS Regional Services List is [here](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/?p=ngi&loc=4)
+
 Amazon EC2 Instance Comparison [here](https://instances.vantage.sh/)
 
 
