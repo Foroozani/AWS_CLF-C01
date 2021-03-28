@@ -72,7 +72,9 @@ Amazon Web Services (AWS) owns and maintains the network-connected hardware requ
   
 *  Glue: Managed ETL (Extract Transform Load) and Data Catalog service 
   
-*  Database Migration: DMS • Neptune: graph database
+*  Database Migration: DMS 
+*  
+* Neptune: graph database
 
 
 
