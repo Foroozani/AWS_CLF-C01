@@ -66,7 +66,7 @@ Amazon Web Services (AWS) owns and maintains the network-connected hardware requ
  
 * DocumentDB: “Aurora for MongoDB” (JSON – NoSQL database) 
  
-* Amazon QLDB: Financial Transactions Ledger (immutable journal, cryptographically verifiable) *
+* Amazon QLDB: Financial Transactions Ledger (immutable journal, cryptographically verifiable) 
  
 *  Amazon Managed Blockchain: managed Hyperledger Fabric & Ethereum blockchains 
   
