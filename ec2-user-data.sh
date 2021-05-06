@@ -1,6 +1,6 @@
 #!/bin/bash
-# it will lunch a webserver on our ec2 instance and write a file to it 
-# Use this for your user data (script from top to bottom)
+# this script will lunch a webserver on our EC2 instance and write a file to it, 
+# it will present the private IP address of your instance
 # install httpd (Linux 2 version)
 yum update -y
 yum install -y httpd
